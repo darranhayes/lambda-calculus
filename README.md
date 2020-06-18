@@ -8,4 +8,4 @@
 I initially developed this script on my Android Mobile using [Dcoder](https://play.google.com/store/apps/details?id=com.paprbit.dcoder&hl=en)
 
 ## Purpose of this exercise
-To begin learning a little about the Lambda Calculus and begin gaining an appreciation that everything in software development, including primitive types for example, can be derived from simple functions composed together.
+To learn a little about the Lambda Calculus and gain an appreciation that everything in software development, including primitive types for example, can be derived from simple functions composed together.
